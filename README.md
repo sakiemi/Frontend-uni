@@ -43,6 +43,8 @@ You don’t have to ever use `eject`. The curated feature set is suitable for sm
 
 This files were designed for an university app. The front-end was created using React Native technology.
 
+It is devided in 3 windows. The main use for this is inviting new users into the app based on their emails (which were later stored in a database). The admins can also assign new roles to the invited users, or remove them.
+
 ## Learn More
 
 You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
